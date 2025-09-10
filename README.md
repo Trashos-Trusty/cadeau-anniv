@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# 🎉 Cadeau d'Anniversaire Commun 🎂
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Une application React simple et amusante pour organiser un cadeau d'anniversaire en groupe !
 
-## Available Scripts
+## ✨ Fonctionnalités
 
-In the project directory, you can run:
+- **💰 Cadeau Commun** : Les participants peuvent contribuer financièrement à un cadeau commun
+- **🎁 Cadeau Individuel** : Option pour faire son propre cadeau personnel
+- **🎭 Anonymat** : Possibilité de rester anonyme (nom et montant masqués)
+- **💾 Sauvegarde Automatique** : Les données sont sauvegardées dans le navigateur
+- **🎊 Animations** : Confettis et animations amusantes lors des inscriptions
+- **📱 Responsive** : Interface adaptée aux mobiles et tablettes
 
-### `npm start`
+## 🚀 Comment utiliser
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Choisir le type de participation** :
+   - Cadeau commun : Contribuer à un pot commun
+   - Cadeau individuel : Faire son propre cadeau
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Remplir les informations** :
+   - Prénom
+   - Montant (pour le cadeau commun uniquement)
+   - Option anonymat
 
-### `npm test`
+3. **Suivre les contributions** :
+   - Voir tous les participants
+   - Total collecté pour le cadeau commun
+   - Liste des cadeaux individuels
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Installation et Lancement
 
-### `npm run build`
+```bash
+# Installer les dépendances
+npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Lancer l'application
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+L'application sera accessible sur `http://localhost:3000`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎨 Caractéristiques Techniques
 
-### `npm run eject`
+- **React** avec hooks (useState, useEffect)
+- **CSS moderne** avec animations et transitions
+- **LocalStorage** pour la persistance des données
+- **Design responsive** avec CSS Grid et Flexbox
+- **Composants réutilisables** (Confetti, Messages)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🎪 Éléments Amusants
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Emojis partout** pour une ambiance festive
+- **Messages aléatoires** qui changent à chaque interaction
+- **Confettis animés** lors des inscriptions
+- **Animations fluides** et transitions modernes
+- **Interface colorée** avec dégradés
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📱 Compatibilité
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- ✅ Chrome, Firefox, Safari, Edge
+- ✅ Mobile et tablette
+- ✅ Tous les écrans (responsive)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Créé avec ❤️ pour organiser des anniversaires inoubliables !*

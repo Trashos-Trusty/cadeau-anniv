@@ -1,0 +1,9 @@
+// 🚀 Commandes à exécuter après avoir créé le repository GitHub :
+
+// Remplacez VOTRE_USERNAME par votre nom d'utilisateur GitHub
+git remote add origin https://github.com/VOTRE_USERNAME/cadeau-anniversaire.git
+git push -u origin main
+
+// Exemple si votre username est "marie123" :
+// git remote add origin https://github.com/marie123/cadeau-anniversaire.git
+// git push -u origin main
